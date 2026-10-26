@@ -1,4 +1,4 @@
-# Lahori Bowls
+# Fast Bowls
 
 Real-time "build your bowl" ordering site for a Lahori street-food concept — pick a base,
 protein, toppings and sauce and watch the bowl assemble live, layer by layer, before ordering.
